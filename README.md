@@ -3,7 +3,7 @@ This repo tracks my (desperate) self-teaching journey of word embedding algorith
 I examine the mathematical bedrock and implement the algorithms from scratch with Numpy.    
 
 **Updates**: 
-- Continuous Bag of Words (Numpy implementation)
+- Continuous Bag of Words
 
 Feel free to correct me. 
 <br>You can leave your message here or DM me via Twitter @isVy08 </br>
