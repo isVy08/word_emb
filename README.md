@@ -5,5 +5,5 @@ I examine the mathematical bedrock and implement the algorithms from scratch wit
 **Updates**: 
 - Continuous Bag of Words
 
-Feel free to correct me. 
-<br>You can leave your message here or DM me via Twitter @isVy08 </br>
+Feedbacks and corrections are always welcome. 
+<br>You can leave your message here or DM me via Twitter [@isVy08] (https://twitter.com/isVy08) </br>
