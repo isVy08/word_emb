@@ -6,4 +6,4 @@ I examine the mathematical bedrock and implement the algorithms from scratch wit
 - Continuous Bag of Words
 
 Feedbacks and corrections are always welcome. 
-<br>You can leave your message here or DM me via Twitter [@isVy08] (https://twitter.com/isVy08) </br>
+<br>You can leave your message here or DM me via Twitter [@isVy08](https://twitter.com/isVy08) </br>
