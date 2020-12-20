@@ -7,10 +7,10 @@ import os
 from itertools import chain
 
 # Webdriver & HTML parsing 
-#import requests
-# from bs4 import BeautifulSoup
-#from selenium import webdriver
-#from selenium.webdriver.common.keys import Keys
+import requests
+from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
 
 # NLP
 import re
@@ -27,11 +27,6 @@ from gensim.models.callbacks import CallbackAny2Vec
 
 # Classifier
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.naive_bayes import MultinomialNB
-from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import plot_confusion_matrix
 import sklearn.feature_extraction.text as sklearn_text
 import sklearn.preprocessing as sklearn_prep
 
@@ -41,8 +36,8 @@ from sklearn.manifold import TSNE
 import matplotlib.pyplot as plt 
 
 # Fastai Text Processing
-# from fastai import *
-# from fastai.text import *
+from fastai import *
+from fastai.text import *
 
 
 # Adjust display settings 
